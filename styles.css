@@ -1,0 +1,40 @@
+
+
+
+    
+          .tab1 {
+            display: inline-block;
+            margin-left: 25%;
+            margin-right: 25%;
+            text-indent: 2em;
+            text-align: justify;
+        }
+        
+
+        
+
+        body {background-color:  rgb(179, 135, 162);}
+        
+                
+
+        .excerpt {
+            margin: 75px;
+            padding: 100px;
+            background-color: white;
+            border: lightgray;
+          }
+         
+        
+       /* 
+       
+       to be saved for later use: 
+       
+       #image-border { color: lightslategray} 
+       
+       */
+
+       #text-centered {
+            text-align: center;
+            color: white;
+
+        }
