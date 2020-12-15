@@ -1,34 +1,37 @@
-.img-container {
-    width: 250px;
-}
-
-img {
-    width: 100%;
-    height: auto;
-}
-
-
-
-<style>
-        .tab1 {
+             .tab1 {
             display: inline-block;
-            margin-left: 700px;
-            margin-right: 700px;
+            margin-left: 25%;
+            margin-right: 25%;
             text-indent: 2em;
             text-align: justify;
         }
-        div.a {
+        
+
+        
+
+        body {background-color:  rgb(179, 135, 162);}
+        
+                
+
+        .excerpt {
+            margin: 75px;
+            padding: 100px;
+            background-color: white;
+            border: lightgray;
+          }
+         
+        
+       /* 
+       
+       to be saved for later use: 
+       
+       #image-border { color: lightslategray} 
+       
+       */
+
+       #text-centered {
             text-align: center;
+            color: white;
+
         }
-        body {background-color: rgb(174, 164, 180);}
-        
-        div.b {border-bottom-style: dotted;}
-        
-        p.petite {font-variant-caps: petite-caps;}
-
-        div {
-            padding: 70px;
-            border: 1px solid #4CAF50;
-
-    </style>
 
