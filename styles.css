@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -38,3 +39,39 @@
             color: white;
 
         }
+=======
+.img-container {
+    width: 250px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+<style>
+        .tab1 {
+            display: inline-block;
+            margin-left: 700px;
+            margin-right: 700px;
+            text-indent: 2em;
+            text-align: justify;
+        }
+        div.a {
+            text-align: center;
+        }
+        body {background-color: rgb(174, 164, 180);}
+        
+        div.b {border-bottom-style: dotted;}
+        
+        p.petite {font-variant-caps: petite-caps;}
+
+        div {
+            padding: 70px;
+            border: 1px solid #4CAF50;
+
+    </style>
+
+>>>>>>> 404f04a7273ab7fc4c47bf47f6f2053ab97cb988
